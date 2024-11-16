@@ -17,6 +17,9 @@ Donation Support: Support the development of Data Extractor Pro through our PayP
 📞 Contact
 For any questions, issues, or support, please open an issue on the GitHub repository or contact the maintainer directly at duguinhasilva@hotmail.com.
 
+## **Download**
+[Click here to download the installer (DataSetup.exe)](https://github.com/duguinhaSilva/DataExtractorPro/releases/download/1.3.0.0/DataSetup.exe)
+
 🙏 Support
 If you find Data Extractor Pro useful, please consider supporting its development through a PayPal donation. 
 https://www.paypal.com/donate/?business=SCXR4UE2PL66S&no_recurring=0&item_name=Data+Extractor+Pro+to+simplify+screen+data+extraction%2C+helping+professionals+and+researchers+save+time+and+boost+efficiency.%0A%0A&currency_code=USD
