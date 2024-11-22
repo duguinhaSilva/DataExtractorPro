@@ -51,7 +51,7 @@ Data Extractor Pro is a powerful Windows application designed to simplify and au
 ### 🙏 **Support the Development**
 If you find **Data Extractor Pro** useful, please consider supporting its development through a PayPal donation. Your support helps improve and maintain the application.
 
-[Donate via PayPal](https://www.paypal.com/donate/?business=SCXR4UE2PL66S&no_recurring=0&item_name=Data+Extractor+Pro+to+simplify+screen+data+extraction%2C+helping+professionals+and+researchers+save+time+and+boost+efficiency.%0A%0A&currency_code=USD)
+[Donate via PayPal](https://www.paypal.com/donate/?business=SCXR4UE2PL66S&no_recurring=0&item_name=NonAPICaptor+simplify+screen+data+extraction%2C+helping+professionals+and+researchers+save+time+and+boost+efficiency.&currency_code=USD)
 
 ---
 
